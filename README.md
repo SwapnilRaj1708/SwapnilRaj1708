@@ -1,5 +1,10 @@
 # 💫 About Me:
-Hey There, I'm a Frontend React Developer and a Tech Enthusiast.<br>🔭 I’m currently working with an EdTech Startup to build their web product.<br>👯 I’m looking to collaborate on Web-related Frontend projects and build real-life problem-solving applications.<br>🌱 I’m currently learning Search Engine Optimization, DevOps, and Backend.<br>💬 Ask me about Modern UI, React and Problem-Solving.<br><br>
+Hey There, I'm a Frontend React Developer and a Tech Enthusiast.<br>
+🔭 I’m currently building web products and ERP dashboards at El Nova Labs.<br>
+👯 I’m looking to collaborate on web-related frontend projects and build real-life problem-solving applications.<br>
+🌱 I’m currently learning Search Engine Optimization, DevOps, and backend development.<br>
+💬 Ask me about Modern UI, React, and Problem-Solving.<br><br>
+
 
 
 ## 🌐 Socials:
