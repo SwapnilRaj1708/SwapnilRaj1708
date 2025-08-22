@@ -1,10 +1,5 @@
 # 💫 About Me:
-Hey There, I'm a Frontend React Developer and a Tech Enthusiast.<br>
-🔭 I’m currently building web products and ERP dashboards at El Nova Labs.<br>
-👯 I’m looking to collaborate on web-related frontend projects and build real-life problem-solving applications.<br>
-🌱 I’m currently learning Search Engine Optimization, DevOps, and backend development.<br>
-💬 Ask me about Modern UI, React, and Problem-Solving.<br><br>
-
+Hey There, I'm a Frontend React Developer and a Tech Enthusiast.<br>🔭 I’m currently working with an EdTech Startup to build their web product.<br>👯 I’m looking to collaborate on Web-related Frontend projects and build real-life problem-solving applications.<br>🌱 I’m currently learning Search Engine Optimization, DevOps, and Backend.<br>💬 Ask me about Modern UI, React and Problem-Solving.<br><br>
 
 
 ## 🌐 Socials:
@@ -24,7 +19,7 @@ Hey There, I'm a Frontend React Developer and a Tech Enthusiast.<br>
 ![](https://github-contributor-stats.vercel.app/api?username=SwapnilRaj1708&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://images7.memedroid.com/images/UPLOADED974/6861dd0211f7f.jpeg' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SwapnilRaj1708&icon=7&color=0)](https://visitcount.itsvg.in)
